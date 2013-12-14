@@ -1,0 +1,6 @@
+name = OG Roles Rules Grant
+package = "Organic groups"
+description = Provides rules action to grant or revoke OG role to a user.
+dependencies[] = rules
+dependencies[] = og
+core = 7.x
